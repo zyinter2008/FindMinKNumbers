@@ -1,0 +1,2 @@
+# FindMinKNumbers
+--Traning for algorithm
